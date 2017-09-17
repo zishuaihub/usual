@@ -1,0 +1,17 @@
+﻿@charset "utf-8";*{margin:0;padding:0;}
+body,button,input,select,textarea{color:#505050;font:12px/1.5 Microsoft Yahei;}
+h1,h2,h3,h4,h5,h6{text-align:center;font-size:100%;}
+li,ol,ul{list-style:none;}
+a{outline:0;color:#2a2a2a;text-decoration:none;}
+a:hover{color:#2a2a2a;}
+fieldset,img{border:0;}
+table{border-collapse:collapse;border-spacing:0;}
+button,input,select,textarea{outline:0;font-size:100%;}
+textarea{resize:none;}
+img{width:100%;vertical-align:top;}
+article,aside,footer,header,hgroup,nav,section{display:block;}
+h2{color:#303132;text-align:center;}
+.clear,.clearfix{ zoom:1; }
+.clear:after,.clearfix:after{content:'';display:block;clear:both;height:0;visibility:hidden; }
+.fr{float:right;}
+.fl{float:left;}
